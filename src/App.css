@@ -62,3 +62,13 @@
   font-weight: bold;
   padding: 0 10px;
 }
+
+.participants-list {
+  list-style-type: "✅";
+}
+
+.participants-list li {
+  font-size: 24px;
+  font-weight: bold;
+  padding: 0 10px;
+}
